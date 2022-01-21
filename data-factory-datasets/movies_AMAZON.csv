@@ -1,0 +1,175 @@
+IMDB_ID,RL_ID,Name,Release Date,Rated,Duration,Genre,Rating,Vote Count,MovieMeter,Production Company,Director,Writer,Producer,Composer,Cinematographer,Editor,Casting Directors,Product Designers,Budget,Opening Weekend,Gross (US & Canada),Gross (World),Rating_All_AllAges_Rating,Rating_All_AllAges_Number,Rating_All_under18_Rating,Rating_All_under18_Number,Rating_All_18-29_Rating,Rating_All_18-29_Number,Rating_All_30-44_Rating,Rating_All_30-44_Number,Rating_All_45above_Rating,Rating_All_45above_Number,Rating_Male_AllAges_Rating,Rating_Male_MaleAges_Number,Rating_Male_under18_Rating,Rating_Male_under18_Number,Rating_Male_18-29_Rating,Rating_Male_18-29_Number,Rating_Male_30-44_Rating,Rating_Male_30-44_Number,Rating_Male_45above_Rating,Rating_Male_45above_Number,Rating_Female_AllAges_Rating,Rating_Female_AllAges_Number,Rating_Female_under18_Rating,Rating_Female_under18_Number,Rating_Female_18-29_Rating,Rating_Female_18-29_Number,Rating_Female_30-44_Rating,Rating_Female_30-44_Number,Rating_Female_45above_Rating,Rating_Female_45above_Number,country_of_origin,Follows,Followed_by,Version_of,Spin_off,Remake_of,BestMovie_Win,BestDirector_Win,BestActor_Win,BestActress_Win,BestMovie_Nom,BestDirector_Nom,BestActor_Nom,BestActress_Nom
+tt9904802,,Enemy Lines,"Updated
+
+23-abr-2020",TV-14,92,['War'],"4,5",1.394,21.673,Happy Hour Films,Anders Banke,Michael Wright,Tom George,Philippe Jakko,,Rupert Hall,,,,,,,"4,5",1.395,"1,0",1,"4,4",61,"4,1",293,"4,7",317,"4,3",646,"1,0",1,"4,3",40,"4,0",261,"4,7",293,"5,0",68,,"4,7",19,"4,8",29,"5,6",14,"5,0",United Kingdom,,,,,,,,,,,,,
+tt9903966,,Schwartz & Schwartz: Der Tod im Haus,"Updated
+
+23-mar-2019",,90,['Crime'],7,46,838.935,Zweites Deutsches Fernsehen (ZDF),Jobst Oetzmann,Alexander Adolph,Alexander Adolph,Christoph Kaiser,Volker Tittel,Florian Duffe,Siegfried Wagner,Monika Nix,,,,,"7,0",46,-,,"7,0",2,"6,4",12,"7,1",21,"6,8",28,-,,-,,"6,1",10,"7,0",17,"8,0",5,,-,,"10,0",1,"7,3",3,"8,0",Germany,,,,,,,,,,,,,
+tt9900332,,"Tonio & Julia
+Ein neues Leben
+","Updated
+
+21-mar-2019",,,"['Drama', 'Romance']","6,7",14,,,Bettina Woernle,Katja Kittendorf,Nikola Bock,Micki Meuser,Tomas Erhart,Birgit Gasser,Silke Fintelmann,Christian Kettler,,,,,"6,7",14,-,,-,,"6,0",3,"6,5",8,"5,9",9,-,,-,,"6,0",3,"6,5",6,"6,5",2,,-,,-,,"6,5",2,"6,5",,,,,,,,,,,,,,
+tt9900296,,"Tonio & Julia
+Wenn einer geht
+","Updated
+
+14-mar-2019",,,"['Drama', 'Romance']","6,6",13,,,Stefan Bühling,Katja Kittendorf,Nikola Bock,Micki Meuser,Ralf M. Mendle,Jens Müller,Silke Fintelmann,Christian Kettler,,,,,"6,6",13,-,,-,,"5,7",3,"6,8",8,"5,8",8,-,,-,,"5,7",3,"6,7",5,"7,0",3,,-,,-,,"7,0",3,"7,0",,,,,,,,,,,,,,
+tt9900286,,"Tonio & Julia
+Schuldgefühle
+","Updated
+
+07-mar-2019",,,"['Drama', 'Romance']","7,2",12,,,Stefan Bühling,Gabriele Kreis,Nikola Bock,Micki Meuser,Ralf M. Mendle,Jens Müller,Silke Fintelmann,Christian Kettler,,,,,"7,2",12,-,,-,,"6,0",2,"6,9",9,"6,4",9,-,,-,,"6,0",2,"7,0",7,"6,5",2,,-,,-,,"6,5",2,"6,5",,,,,,,,,,,,,,
+tt9898858,,Coffee & Kareem,"Updated
+
+03-abr-2020",TV-MA,88,"['Action', 'Comedy', 'Crime']","5,1",12.776,15.049,Pacific Electric Picture Company,Michael Dowse,Shane Mack,Mike Falbo,Joseph Trapanese,Brian Burgoyne,Daniel Gabbe,Raylin Sabo,Jeremy Stanbridge,,,,,"5,1",12.78,"5,0",13,"5,2",1.694,"5,1",4.901,"5,0",1.477,"5,1",7.374,"5,4",8,"5,1",1.304,"5,1",4.113,"5,0",1.222,"5,2",1.372,3,"5,5",311,"5,2",678,"5,0",217,"5,2",United States,,,,,,,,,,,,,
+tt9897258,,Rosa pietra stella,"ago
+27,
+2020",,94,['Drama'],"5,7",50,170.753,Bronx Film,Marcello Sannino,Giorgio Caruso,Pier Francesco Aiello,Riccardo Veno,,Giogiò Franchini,,Antonio Farina,€2.400.000,,,,"5,6",52,-,,"4,0",12,"5,0",14,"6,2",14,"5,2",33,-,,"3,8",8,"5,7",12,"6,5",11,"4,9",8,,"5,0",3,"2,0",1,"5,7",3,"4,9",Italy,,,,,,,,,,,,,
+tt9896916,rl956859905,Pilgrim's Progress,"abr
+18,
+2019",PG,108,"['Animation', 'Adventure', 'Family']","6,2",601,25.965,Cat In The Mill Studio,Robert Fernandez,John Bunyan,Steve Cleary,Michael Dooley,,,,,,$678.647,$1.294.596,$3.173.282,"6,2",603,-,,"6,1",39,"6,0",174,"5,8",145,"5,7",302,-,,"6,0",29,"5,7",130,"5,4",113,"7,0",93,,"5,8",7,"6,8",42,"7,6",31,"7,0",United States,,,,,,,,,,,,,
+tt9894894,,Caviar,"jun
+13,
+2019",,93,['Comedy'],"5,4",181,169.492,Witcraft Filmproduktion,Elena Tikhonova,Robert Buchschwenter,Alexander Glehr,Karwan Marouf,Dominik Spritzendorfer,Karin Hammer,Rita Waszilovics,Julia Oberndorfinger,,,,$501,"5,4",181,-,,"6,0",11,"5,3",63,"5,1",53,"5,1",112,-,,"5,0",7,"5,2",49,"5,1",47,"6,1",22,,"8,0",4,"5,7",11,"5,4",5,"6,1",Austria,,,,,,,,,,,,,
+tt9894470,,VFW,"feb
+14,
+2020",Not Rated,92,"['Action', 'Crime', 'Horror']","6,1",7.258,9.468,Fangoria,Joe Begos,Max Brallier,Josh Ethier,Steve Moore,Mike Testin,Josh Ethier,David Guglielmo,Adam Dietrich,,,,$23.101,"6,1",7.271,"5,5",2,"6,3",638,"6,1",3.185,"5,9",1.375,"6,1",5.086,"5,5",2,"6,3",564,"6,1",2.935,"5,9",1.258,"5,7",375,,"5,1",55,"5,8",202,"5,8",87,"5,7",United States,,,,,,,,,,,,,
+tt9894450,,Felicità,"jul
+15,
+2020",,81,"['Comedy', 'Drama']","6,7",744,64.438,Unité de Production,Bruno Merle,Bruno Merle,Bruno Nahon,Pygnmy Johnson,Romain Carcanade,Benjamin Favreul,,Frédéric Tabone,,,,$236.880,"6,7",746,-,,"7,1",92,"6,5",241,"6,4",151,"6,5",402,-,,"7,3",62,"6,4",175,"6,4",137,"6,7",103,,"6,3",22,"6,8",56,"6,7",13,"6,7",France,,,,,,,,,,,,,
+tt9893250,,I Care a Lot,"feb
+19,
+2021",R,118,"['Comedy', 'Crime', 'Thriller']","6,3",114.339,1.081,Black Bear Pictures,J Blakeson,J Blakeson,J Blakeson,Marc Canham,Doug Emmett,Mark Eckersley,Rori Bergman,Michael Grasley,,,,$1.288.436,"6,3",114.505,"6,2",73,"6,3",15.249,"6,3",37.193,"6,4",12.765,"6,3",53.051,"6,2",48,"6,3",9.75,"6,2",28.035,"6,4",9.869,"6,5",17.017,18,"6,5",4.601,"6,4",8.029,"6,4",2.498,"6,5","United States, United Kingdom",,,,,,,,,,,,,
+tt9885888,,Kabukichou Sherlock,"Updated
+
+12-oct-2019",,24,"['Animation', 'Comedy', 'Drama']","6,2",176,"1
+  |  
+Unknown
+ 
+ See all",Production I.G.,Ai Yoshimura,,,,Kazuya Arahata,,,,,,,,"6,2",177,"8,0",2,"6,5",39,"5,6",45,"6,6",11,"6,2",82,"8,0",1,"6,5",32,"5,4",34,"6,6",9,"5,8",18,,"5,3",6,"5,7",9,"4,5",2,"5,8",Japan,,,,,,,,,,,,,
+tt9882084,,Chasing Happiness,"Updated
+
+04-jun-2019",Not Rated,96,"['Documentary', 'Biography', 'Music']","7,8",2.116,64.305,Amazon Studios,John Taylor,,Steve Ecclesine,Kaveh Cohen,Nicholas Small,Grant MacDowell,,,,,,,"7,8",2.117,"7,0",3,"8,0",569,"7,4",417,"7,3",193,"7,3",547,"10,0",1,"7,7",187,"6,9",196,"6,6",104,"8,0",737,2,"8,2",354,"7,7",209,"7,8",83,"8,0",United States,,,,,,,,,,,,,
+tt9881392,,Ink of Yam,"may
+9,
+2019",,75,['Documentary'],"Needs 5 ratings
+ Your rating:
+0",,1.551.293,JIP Film und Verleih,Tom Fröhlich,Tom Fröhlich,Tom Fröhich,Adrian Portia,Christoph Bockisch,Emil Rosenberger,,,€10.000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Germany,,,,,,,,,,,,,
+tt9880234,,Still Laugh-In: The Stars Celebrate,"Updated
+
+14-may-2019",TV-MA,60,"['Comedy', 'Music']","5,2",543,172.131,25/7 Productions,,Jon Macks,David Broome,,,Daniel Brown,,,,,,,"5,2",543,-,,"5,2",44,"5,3",140,"5,1",194,"5,0",289,-,,"4,8",26,"5,2",103,"4,9",140,"5,8",117,,"6,1",17,"5,5",35,"5,9",51,"5,8",United States,,,,,,,,,,,,,
+tt9877170,,Malang,"feb
+7,
+2020",Not Rated,135,"['Action', 'Crime', 'Drama']","6,5",9.591,13.272,Luv Films,Mohit Suri,Aseem Arrora,Ankur Garg,Rabbi Ahmed,Vikas Sivaraman,Devendra Murdeshwar,Panchami Ghavri,Vintee Bansal,,,,$8.399.765,"6,5",9.595,"6,6",17,"6,5",1.971,"6,2",2.093,"6,1",214,"6,3",4.57,"6,5",14,"6,5",1.721,"6,2",1.856,"6,1",178,"6,9",477,1,"6,9",153,"6,8",186,"6,4",32,"6,9",India,,,,,,,,,,,,,
+tt9875852,,The House Elf,"abr
+11,
+2019",,90,"['Comedy', 'Family', 'Fantasy']","5,5",262,38.37,Great Movies Distribution,Evgeniy Bedarev,Dmitriy Bedarev,,Garry Judd,,,,,,,,$1.842.316,"5,5",262,-,,"4,7",29,"5,7",97,"5,8",52,"5,5",149,-,,"4,0",15,"5,7",80,"5,8",43,"6,2",39,,"5,8",14,"6,0",17,"6,4",7,"6,2",Russia,,,,,,,,,,,,,
+tt9870686,,Mysterious Discoveries in the Great Pyramid,"Updated
+
+17-dic-2018",,50,['Documentary'],"6,5",15,370.381,Lucky You,Florence Tran,,Yves Darondeau,,Mohammed El Sharqawy,,,,,,,,"6,5",15,-,,"4,0",1,"6,5",7,"6,8",4,"6,4",11,-,,"4,0",1,"6,5",7,"7,0",3,-,,,-,,-,,-,,-,France,,,,,,,,,,,,,
+tt9867616,,Almost Human,"Updated
+
+21-mar-2019",,46,"['Documentary', 'Sci-Fi']","6,8",196,96.128,Bacon,Jeppe Rønde,Jeppe Rønde,Samuel Cantor,,Sine Vadstrup Brooker,Nanna Frank Møller,,,,,,,"6,8",196,-,,"7,1",27,"6,7",76,"6,9",35,"6,8",125,-,,"7,0",20,"6,7",65,"6,8",33,"7,1",18,,"7,2",7,"7,3",8,"7,0",1,"7,1",Denmark,,,,,,,,,,,,,
+tt9866700,,Paranormal Investigation,"Updated
+
+06-abr-2019",,92,"['Horror', 'Thriller']","3,7",1.573,44.459,Baril Pictures,Franck Phelizon,,,Fabien Levy-Strauss,,,,,,,,,"3,7",1.573,"4,0",1,"3,5",103,"3,8",236,"3,8",97,"3,8",321,-,,"3,3",53,"3,8",166,"3,9",76,"3,8",136,1,"4,0",43,"3,8",64,"3,6",20,"3,8",France,,,,,,,,,,,,,
+tt9865156,,Spy Wars,"Updated
+
+07-oct-2019",TV-PG,,['Documentary'],"7,7",233,"1
+ 
+ See all",A&E Networks UK,Gareth Lewis,Gareth Lewis,Alice Ankeny,,Christopher Titus King,Ian Baigent,Nikki Meadows,Kit Line,,,,,"7,7",233,-,,"7,7",15,"7,8",72,"7,8",74,"7,7",143,-,,"7,9",11,"7,8",60,"7,7",57,"8,1",31,,"7,0",2,"8,0",11,"8,3",13,"8,1",United Kingdom,,,,,,,,,,,,,
+tt9861504,,Nate Bargatze: The Tennessee Kid,"Updated
+
+26-mar-2019",,60,['Comedy'],"7,6",1.561,74.086,Irwin Entertainment,Ryan Polito,Nate Bargatze,,,Jay Lafayette,Matthew Simon,,,,,,,"7,6",1.563,-,,"7,4",220,"7,7",623,"7,3",200,"7,5",921,-,,"7,4",171,"7,6",528,"7,3",162,"7,6",183,,"7,1",39,"7,9",87,"7,3",36,"7,6",United States,,,,,,,,,,,,,
+tt9861270,,Çilgin Dersane Üniversitede,"Updated
+
+09-jun-2014",,90,['Comedy'],"4,2",59,"1
+ 
+ See all",Aksoy Film,Yasin Uslu,Pashan Yilmazel,Emir Kosif,Oguz Kaplangi,Cengiz Fazlioglu,Erhan Özen,,,,,,,"4,2",59,-,,"2,4",12,"1,2",14,-,,"1,3",20,-,,"1,8",7,"1,0",11,-,,"3,7",7,,"3,9",5,"1,0",2,-,,"3,7",Turkey,,,,,,,,,,,,,
+tt9860728,,Falling Inn Love,"Updated
+
+29-ago-2019",TV-PG,98,"['Comedy', 'Romance']","5,6",17.874,7.181,Ground Control,Roger Kumble,Elizabeth Hackett,Robyn Snyder,Edward Shearmur,Dave Garbett,Anita Brandt Burgoyne,Gemma Brown,Gareth Edwards,,,,,"5,6",17.887,"4,7",13,"5,7",3.428,"5,5",5.841,"5,7",1.788,"5,4",5,"7,0",4,"5,4",994,"5,3",2.464,"5,6",1.05,"5,8",6.869,9,"5,8",2.23,"5,7",3.208,"6,0",681,"5,8",United States,,,,,,,,,,,,,
+tt9856606,,Mister T.,"dic
+25,
+2019",,103,"['Comedy', 'Drama']","6,1",525,119.468,Propeller Film,Marcin Krzysztalowicz,Andrzej Golda,Jaroslaw Bolinski,Michal Wozniak,Adam Bajerski,Wojciech Mrówczynski,Marcin Krzysztalowicz,Robert Czesak,,,,$202.432,"6,1",526,"7,0",1,"6,0",68,"6,0",201,"5,9",63,"6,0",276,-,,"5,9",37,"6,0",155,"5,9",60,"6,1",61,1,"6,0",17,"6,0",36,-,,"6,1",Poland,,,,,,,,,,,,,
+tt9856280,,The Show Must Go On: The Queen + Adam Lambert Story,"Updated
+
+29-abr-2019",,86,['Documentary'],"7,8",1.781,42.451,Miracle Productions,Christopher Bird,,Jim Beach,,Nicholas Paton,Christopher Bird,,,,,,,"7,8",1.782,"9,0",1,"7,8",157,"7,6",607,"8,0",424,"7,6",888,-,,"7,6",92,"7,5",429,"7,8",308,"8,3",356,1,"8,1",56,"8,0",164,"8,7",107,"8,3",United Kingdom,,,,,,,,,,,,,
+tt9856250,,Mensch und Mond,"Updated
+
+12-ene-2019",,,['Documentary'],"Needs 5 ratings
+ Your rating:
+0",,"1
+ 
+ See all",ARTE,Eva Schötteldreier,Eva Schötteldreier,Alexander Hesse,Paul Rabiger,Steffen Bohn,Fabian Reisch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Germany,,,,,,,,,,,,,
+tt9855978,,Dreambuilders,"ago
+10,
+2021",,81,"['Animation', 'Adventure', 'Comedy']","6,1",1.053,17.945,First Lady Film,Kim Hagen Jensen,Søren Grinderslev Hansen,Sunit Parekh,Kristian Eidnes Andersen,,Rikke Selin,,Tonni Zinck,,,,$4.178.557,"6,1",1.056,"7,7",3,"6,2",118,"6,0",396,"6,0",172,"6,1",613,"8,0",2,"6,1",89,"6,0",327,"6,1",147,"6,0",124,1,"6,2",23,"5,8",63,"6,0",18,"6,0",Denmark,,,,,,,,,,,,,
+tt9848536,,We Are Who We Are,"Updated
+
+14-sep-2020",TV-MA,462,['Drama'],"7,3",7.192,"1
+ 
+ See all",Home Box Office (HBO),,,,,,,,,,,,,"7,3",7.197,"7,7",16,"7,5",1.147,"7,2",1.875,"6,4",830,"7,1",2.941,"7,3",10,"7,5",710,"7,2",1.3,"6,5",638,"7,1",1.158,4,"7,4",366,"7,1",518,"6,1",161,"7,1","Italy, United States",,,,,,,,,,,,,
+tt9845564,,Below Zero,"Updated
+
+29-ene-2021",TV-MA,106,"['Action', 'Adventure', 'Crime']","6,2",16.76,6.148,Morena Films,Lluís Quílez,Fernando Navarro,Josep Amorós,Zacarías M. de la Riva,Isaac Vila,Antonio Frutos,Rosa Estévez,Óscar Sempere,,,,,"6,2",16.788,"4,6",12,"6,2",1.747,"6,2",5.806,"6,2",2.608,"6,2",9.539,"5,2",9,"6,2",1.339,"6,1",4.979,"6,2",2.261,"6,4",1.343,2,"6,5",290,"6,3",638,"6,5",253,"6,4",Spain,,,,,,,,,,,,,
+tt9845398,rl4010313217,End of the Century,"ago
+16,
+2019",Unrated,84,['Drama'],"6,9",2.907,20.483,Stray Dogs,Lucio Castro,Lucio Castro,Joanna Lee,Robert Lombardo,Bernat Mestres,Lucio Castro,Maria La Greca,,,$10.063,$66.309,$103.047,"6,9",2.91,"6,0",3,"7,1",443,"6,8",987,"7,0",573,"6,9",1.884,"6,0",3,"7,1",365,"6,8",863,"7,0",523,"6,9",217,,"6,8",62,"6,9",102,"7,0",35,"6,9",Argentina,,,,,,,,,,,,,
+tt9845110,rl1433043713,Two of Us,"feb
+5,
+2021",Not Rated,99,"['Drama', 'Romance']","7,1",2.284,13.356,Paprika Films,Filippo Meneghetti,Malysone Bovorasmy,Laurent Baujard,Michele Menini,Aurélien Marra,Julia Maby,,Laurie Colson,€2.400.000,$2.955,$5.495,$334.166,"7,1",2.293,"8,0",1,"7,1",287,"7,1",776,"7,1",511,"7,1",1.182,-,,"7,0",167,"7,1",554,"7,2",399,"7,0",446,,"7,0",106,"7,1",209,"6,8",106,"7,0","France, Luxembourg, Belgium",,,,,,,,,,,,,
+tt9842974,,"Wilsberg
+Minus 196°
+","Updated
+
+01-mar-2019",,,"['Crime', 'Thriller']","6,9",40,,Warner Bros. ITVP Deutschland,Martin Enlen,Jürgen Kehrer,,Martin Unterberger,,Monika Abspacher,Helga Heich,,,,,,"6,9",40,-,,-,,"6,7",12,"7,1",22,"7,0",33,-,,-,,"6,7",12,"7,2",19,"6,5",3,,-,,-,,"6,5",3,"6,5",,,,,,,,,,,,,,
+tt9842736,,Biene Majas wilde Schwestern,"Updated
+
+31-dic-2016",,43,['Documentary'],"7,4",7,604.556,ARTE,Jan Haft,Jan Haft,,,,Jan Haft,,,,,,,"7,4",7,-,,"10,0",1,"8,0",1,"7,0",1,"7,3",3,-,,-,,"8,0",1,"7,0",1,"10,0",1,,"10,0",1,-,,-,,"10,0",Germany,,,,,,,,,,,,,
+tt9841750,,The Tale of a Thousand and One Lives,"mar
+13,
+2019",,92,"['Comedy', 'Drama']","6,8",51,188.085,Tarantula,Yilmaz Arslan,,Elise André,,Jako Raybaut,,Tara Klassen,Paul Rouschop,€2.930.290,,,,"6,8",51,-,,"6,0",2,"6,6",12,"6,9",18,"6,9",29,-,,-,,"6,7",11,"6,9",17,"6,0",2,,"6,0",1,"6,0",1,-,,"6,0","Luxembourg, Germany, Belgium",,,,,,,,,,,,,
+tt9827834,,Sylvie's Love,"Updated
+
+27-ene-2020",PG-13,114,"['Drama', 'Music', 'Romance']","6,8",5.253,9.429,Iam21 Entertainment,Eugene Ashe,Eugene Ashe,Eugene Ashe,Fabrice Lecomte,Declan Quinn,Dana Congdon,Kerry Barden,Mayne Berke,,,,,"6,8",5.263,"6,2",4,"6,8",517,"6,6",1.411,"6,8",1.16,"6,6",2.044,"6,0",1,"6,8",298,"6,5",883,"6,6",721,"7,1",1.215,2,"6,7",196,"6,9",482,"7,4",404,"7,1",United States,,,,,,,,,,,,,
+tt9824674,,Bunker of Blood: Chapter 5: Psycho Sideshow: Demon Freaks,"Updated
+
+31-dic-2018",Not Rated,60,['Horror'],"2,6",32,137.092,Full Moon Features,David DeCoteau,Brockton McKinney,,Richard Band,,,,,,,,,"2,6",32,-,,"2,0",2,"1,4",7,"2,4",13,"2,0",23,-,,-,,"1,4",7,"2,4",13,"5,5",2,,"2,0",1,-,,-,,"5,5",United States,,,,,,,,,,,,,
+tt9823170,,Black Mercedes,"oct
+4,
+2019",,110,"['Crime', 'Drama', 'Mystery']","5,4",474,39.151,Polski Instytut Sztuki Filmowej,Janusz Majewski,Wlodzimierz Kowalewski,Wlodzimierz Niderhaus,Pawel Lucewicz,Arkadiusz Tomiak,Milenia Fiedler,Elzbieta Sikorska,Andrzej Halinski,,,,$90.549,"5,4",475,"4,0",1,"4,7",49,"5,2",147,"5,8",93,"5,4",256,-,,"4,4",30,"5,3",122,"5,7",78,"5,1",51,,"5,1",13,"4,7",21,"6,6",12,"5,1",Poland,,,,,,,,,,,,,
+tt9822474,,Into the Canyon,"Updated
+
+21-feb-2019",,84,['Documentary'],"7,4",350,85.09,Insignia Films,Peter McBride,,Stephen Ives,William Ryan Fritch,Peter McBride,Bo Mehrad,,,,,,,"7,4",350,-,,"6,9",37,"7,5",121,"7,1",76,"7,2",206,-,,"6,8",26,"7,5",107,"6,9",59,"7,7",43,,"7,2",10,"7,6",12,"8,1",14,"7,7",United States,,,,,,,,,,,,,
+tt9821118,,Kaya Yanar - Planet Deutschland,"Updated
+
+31-dic-2018",,84,['Comedy'],"6,5",19,712.776,Sony Music Entertainment Germany,,Kaya Yanar,,,,,,,,,,,"6,5",19,-,,"6,5",2,"6,4",10,"8,0",3,"6,4",9,-,,-,,"6,0",7,"8,0",2,"7,4",6,,"6,0",1,"7,5",2,-,,"7,4",Germany,,,,,,,,,,,,,
+tt9817760,,Jai Mummy Di,"ene
+17,
+2020",,103,"['Comedy', 'Drama', 'Romance']","3,7",880,46.615,Luv Films,Navjot Gulati,Navjot Gulati,Ankur Garg,Gaurav Chatterji,Sanket Shah,Chetan Solanki,Anmol Ahuja,Tarpan Shrivastava,,,,$413.764,"3,7",880,"1,8",4,"4,1",138,"3,7",294,"3,1",34,"3,7",477,"1,8",4,"4,0",119,"3,8",266,"3,0",31,"3,4",52,,"4,1",15,"2,9",23,"3,3",3,"3,4",India,,,,,,,,,,,,,
+tt9817300,,15 August,"Updated
+
+29-mar-2019",,124,['Drama'],"5,8",255,113.952,RnM Motion Pictures,Swapnaneel Jaykar,Yogesh Vinayak Joshi,Madhuri Dixit,,Milind Jog,Ashish Mhatre,Rohan Mapuskar,,,,,,"5,8",255,-,,"6,1",33,"5,8",99,"5,7",29,"5,8",155,-,,"6,1",28,"5,8",88,"5,4",23,"6,0",23,,"6,0",3,"6,0",10,"6,6",6,"6,0",India,,,,,,,,,,,,,
+tt9817258,,Jimmy Carr: The Best of Ultimate Gold Greatest Hits,"Updated
+
+12-mar-2019",TV-MA,58,['Comedy'],"7,3",1.815,109.72,Netflix,Brian Klein,,,,,Andi Turner,,Richard Drew,,,,,"7,3",1.815,"8,0",3,"7,2",378,"7,3",742,"7,3",182,"7,4",1.23,"8,0",3,"7,3",315,"7,4",657,"7,3",162,"7,0",162,,"7,0",55,"6,8",74,"7,0",17,"7,0",United Kingdom,,,,,,,,,,,,,
+tt9816636,,Koyver Gitsin,"nov
+16,
+2018",,89,['Comedy'],"4,8",16,227.884,,Kemal Danaci,Omer Getcu,Serkan Bircan,,,,,,TRL6.000.000,,,$454.638,"4,8",16,-,,"4,0",1,"5,3",7,"5,7",3,"4,6",12,-,,"4,0",1,"5,3",7,"5,7",3,-,,,-,,-,,-,,-,Turkey,,,,,,,,,,,,,
+tt9815714,,The Hard Way,"mar
+5,
+2019",Not Rated,92,['Action'],"4,8",2.991,11.912,Actionhouse Pictures,Keoni Waxman,Thomas J. Churchill,Binh Dang,Michael Richard Plowman,Liviu Pojoni Jr.,Ryan Stevens Harris,Dan Ursu,Dan Toader,$3.500.000,,,,"4,8",2.992,"4,3",3,"4,8",304,"4,8",931,"4,8",717,"4,8",1.922,"5,5",2,"4,7",244,"4,8",848,"4,8",625,"5,1",203,,"4,8",33,"4,5",66,"5,5",75,"5,1",United States,,,,,,,,,,,,,
+tt9812644,,Shattered,"jun
+22,
+2021",,93,"['Crime', 'Drama', 'Thriller']","6,6",45,46.333,Lincoln TV,Isabelle Czajka,Laura Piani,Christine de Bourbon Busset,Eric Neveux,David Quesemand,Martine Armand,Julien Grossi,Sylvie Deldon,€2.330.000,,,,"6,6",45,-,,"10,0",1,"6,6",10,"6,1",21,"6,3",32,-,,-,,"6,8",9,"6,1",21,"6,0",1,,-,,"6,0",1,-,,"6,0",France,,,,,,,,,,,,,
+tt9806336,,Rising High,"Updated
+
+17-abr-2020",TV-MA,94,"['Comedy', 'Drama']","5,8",4.518,17.128,UFA Fiction,Cüneyt Kaya,Cüneyt Kaya,,Christopher Bremus,Sebastian Bäumler,Maren Unterburger,Lisa Stutzky,Sebastian Wurm,,,,,"5,8",4.517,"1,8",5,"5,6",631,"5,8",1.651,"5,7",597,"5,8",2.698,"1,7",3,"5,8",480,"5,9",1.411,"5,8",533,"4,9",402,1,"4,4",123,"5,1",190,"4,5",48,"4,9",Germany,,,,,,,,,,,,,
+tt9806322,,Isi & Ossi,"Updated
+
+12-feb-2020",TV-MA,113,"['Comedy', 'Romance']","6,4",7.495,11.938,X-Filme Creative Pool,Oliver Kienle,Oliver Kienle,Stefan Arndt,Michael Kadelbach,Yoshi Heimrath,Knut Hake,Timothy Cubbison,Tim Pannen,,,,,"6,4",7.508,"5,7",14,"6,6",1.579,"6,4",2.14,"6,1",529,"6,3",2.538,"7,0",2,"6,2",618,"6,3",1.225,"6,1",394,"6,6",2.066,10,"6,8",845,"6,5",841,"6,1",123,"6,6",Germany,,,,,,,,,,,,,
+tt9805504,,Break,"dic
+3,
+2019",,85,"['Adventure', 'Drama', 'Thriller']","4,6",1.699,20.187,Attraction Film Company,Tigran Sahakyan,Denis Kosyakov,Artur Astvatsatryan,Aleksey Chintsov,Sergey Dyshuk,Alexandr Karpov,,Artur Mirzoyan,,,,$353.569,"4,6",1.7,"2,0",1,"4,3",158,"4,5",629,"4,8",315,"4,6",978,-,,"4,2",113,"4,5",514,"4,7",262,"4,8",197,,"4,6",34,"4,6",91,"5,2",45,"4,8",Russia,,,,,,,,,,,,,
